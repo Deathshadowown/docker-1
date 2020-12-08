@@ -1,0 +1,4 @@
+#!/bin/bash
+#Create a volume named hatchery.
+#docker volume create --name [volume name]
+docker volume create --name hatchery
