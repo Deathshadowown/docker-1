@@ -20,4 +20,4 @@ docker exec Abathur sh -c "FLASK_APP=~/hello.py flask run --host=0.0.0.0 --port=
 # pip is a package manager for python
 # http://flask.pocoo.org/ has the hello world program we can modify for
 # html output. 
-# The last line sets up the server to run on localhost port 3000
+# The last line sets up the server to run on char IP port 3000

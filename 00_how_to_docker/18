@@ -1,3 +1,7 @@
 #!/bin/bash
 #Relaunch the overlord container.
 docker container restart overlord
+
+#docker exec -it overlord bash
+#to ssh into the container, then once you're in:
+#kill 1
